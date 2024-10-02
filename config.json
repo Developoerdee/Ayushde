@@ -6,12 +6,12 @@
 	],
 	"Propietario": [
 		[
-			"51991378809",
+			"4915679442442",
 			"Matt_Mdz",
 			true
 		],
 		[
-			"51999999999",
+			"4915679442442",
 			"you",
 			false
 		]
@@ -22,7 +22,7 @@
 	],
 	"Mode": "default",
 	"LocPref": "51",
-	"NombreDelBot": "QUANTUM-BOT",
+	"NombreDelBot": "LiebeDichDeutschland-BOT",
 	"MinimoDeUsuarios": 3,
 	"Limits": {
 		"gms": 10,
